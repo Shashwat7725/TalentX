@@ -1,0 +1,45 @@
+.footer {
+  padding-block: 30px;
+  background-color: #101e3c;
+  color: white;
+}
+
+.footer-container {
+  justify-content: space-around;
+  align-items: center;
+}
+.footer-logo-info {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  font-family: "space Grotesk", sans-serif;
+  font-size: 18px;
+}
+
+.logo-title {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  padding-bottom: 20px;
+}
+.footer-info {
+  gap: 60px;
+}
+.footer-info a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.footer-info li {
+  list-style: none;
+  color: white;
+  padding: 20px 0 20px 0;
+}
+
+.footer-info a:hover {
+  color: var(--primary-btn-color);
+}

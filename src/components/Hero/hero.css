@@ -1,0 +1,54 @@
+.hero {
+  font-family: "Montserrat", sans-serif;
+  background: rgb(213, 232, 255);
+  background: linear-gradient(
+    176deg,
+    rgba(213, 232, 255, 1) 35%,
+    rgba(242, 248, 254, 1) 100%
+  );
+  padding-block: 30px;
+}
+.hero-container {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  font-size: 54px;
+}
+
+.description {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.5rem;
+  font-weight: lighter;
+  padding-top: 10px;
+  letter-spacing: 1.5px;
+  padding-bottom: 30px;
+}
+
+.btn {
+  width: 18vw;
+  height: 4vw;
+  font-size: 1rem;
+  border-radius: 10px;
+}
+
+.secondary-btn {
+  margin-right: 10px;
+}
+
+.hero-img {
+  width: 40vw;
+  height: 50vh;
+}
+
+.tick-boxes {
+  margin-top: 20px;
+  gap: 70px;
+  font-size: 18px;
+}
+.tick-icon {
+  width: 30px;
+  color: green;
+  margin-right: 10px;
+}

@@ -1,0 +1,20 @@
+.feature-overview {
+  background-image: url("../public/images/Hero/blue-pattern.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: white;
+}
+
+.feature-overview-container {
+  padding-block: 70px;
+}
+.overview-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 38px;
+}
+
+.overview-desc {
+  font-family: "space Grotesk", sans-serif;
+  font-size: 18px;
+}

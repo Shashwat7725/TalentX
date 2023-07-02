@@ -1,0 +1,94 @@
+.pricing {
+  padding-block: 40px;
+}
+.price-container {
+  gap: 30px;
+}
+
+.toggle-container {
+  gap: 20px;
+}
+.toggle-heading {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 38px;
+}
+.toggle-container {
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-block: 20px;
+}
+.toggle-container p {
+  font-family: "space Grotesk", sans-serif;
+  font-size: 18px;
+}
+
+.toggle-btn {
+  color: var(--primary-btn-color);
+}
+
+.professional {
+  width: 30vw;
+  padding: 20px;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  background-color: #f0f3f6;
+  border-radius: 6px;
+}
+#price-tag {
+  font-size: 38px;
+}
+
+#sub-price {
+  font-size: 18px;
+  font-weight: 100;
+}
+.professional h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+}
+
+/* enterprise plan */
+
+.enterprise {
+  width: 30vw;
+  padding: 20px;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  background-image: url("../public/images/Hero/light-blue-patter.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  border-radius: 6px;
+}
+
+.enterprise h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+}
+
+.custom {
+  width: 30vw;
+  padding: 20px;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  background-color: #f0f3f6;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  border-radius: 6px;
+}
+
+.custom h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+}
+
+.price-container button {
+  padding-block: 20px;
+  margin: auto;
+}

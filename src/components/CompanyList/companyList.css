@@ -1,0 +1,23 @@
+.companyList {
+  background: rgb(240, 246, 255);
+  background: linear-gradient(
+    171deg,
+    rgba(240, 246, 255, 1) 22%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+.companyList-desc {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 30px;
+}
+.company-img-container {
+  justify-content: evenly;
+  align-items: center;
+  gap: 10px;
+}
+
+.company-img {
+  width: 10vw;
+}
