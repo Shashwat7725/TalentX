@@ -1,5 +1,5 @@
 import React from "react";
-import "./FeatureOverview.css";
+import "./featureOverview.css";
 const FeatureOverview = () => {
   return (
     <section className="feature-overview">
