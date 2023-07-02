@@ -58,7 +58,7 @@
   flex-direction: column;
   gap: 20px;
   align-items: flex-start;
-  background-image: url("../public/images/Hero/light-blue-patter.jpg");
+  background-image: url("/images/Hero/light-blue-patter.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;

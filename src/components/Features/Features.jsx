@@ -8,7 +8,7 @@ const Features = () => {
       <div className="container flex feature-container-odd">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature1.png"
+            src="/images/Features/feature1.png"
             className="feature-img"
           ></img>
         </div>
@@ -48,7 +48,7 @@ const Features = () => {
       <div className="container flex feature-container-even">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature2.png"
+            src="/images/Features/feature2.png"
             className="feature-img"
           ></img>
         </div>
@@ -74,7 +74,7 @@ const Features = () => {
             <p>
               <strong>
                 Manage all your sponsored job advertising campaigns
-              </strong>{" "}
+              </strong>
               from a single platform.
             </p>
           </div>
@@ -91,7 +91,7 @@ const Features = () => {
       <div className="container flex feature-container-odd">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature3.png"
+            src="/images/Features/feature3.png"
             className="feature-img"
           ></img>
         </div>
@@ -133,7 +133,7 @@ const Features = () => {
       <div className="container flex feature-container-even">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature4.png"
+            src="/images/Features/feature4.png"
             className="feature-img"
           ></img>
         </div>
@@ -174,7 +174,7 @@ const Features = () => {
       <div className="container flex feature-container-odd">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature5.png"
+            src="/images/Features/feature5.png"
             className="feature-img"
           ></img>
         </div>
@@ -213,7 +213,7 @@ const Features = () => {
       <div className="container flex feature-container-even">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature6.png"
+            src="/images/Features/feature6.png"
             className="feature-img"
           ></img>
         </div>
@@ -257,7 +257,7 @@ const Features = () => {
       <div className="container flex feature-container-odd">
         <div className="feature-img-wrapper">
           <img
-            src="../public/images/Features/feature7.png"
+            src="/images/Features/feature7.png"
             className="feature-img"
           ></img>
         </div>

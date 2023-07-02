@@ -16,42 +16,30 @@ const Reviews = () => {
           <div className="review-company flex">
             <img
               className="review-company-img-1"
-              src="../public/images/reviews/review-img-1.png"
+              src="/images/reviews/review-img-1.png"
             ></img>
-            <img
-              src="../public/images/reviews/star.png"
-              className="star-img"
-            ></img>
+            <img src="/images/reviews/star.png" className="star-img"></img>
           </div>
           <div className="review-company flex">
             <img
               className="review-company-img"
-              src="../public/images/reviews/review-img-2.png"
+              src="/images/reviews/review-img-2.png"
             ></img>
-            <img
-              src="../public/images/reviews/star.png"
-              className="star-img"
-            ></img>
+            <img src="/images/reviews/star.png" className="star-img"></img>
           </div>
           <div className="review-company flex">
             <img
               className="review-company-img"
-              src="../public/images/reviews/review-img-3.png"
+              src="/images/reviews/review-img-3.png"
             ></img>
-            <img
-              src="../public/images/reviews/star.png"
-              className="star-img"
-            ></img>
+            <img src="/images/reviews/star.png" className="star-img"></img>
           </div>
           <div className="review-company flex">
             <img
               className="review-company-img"
-              src="../public/images/reviews/review-img-4.png"
+              src="/images/reviews/review-img-4.png"
             ></img>
-            <img
-              src="../public/images/reviews/star.png"
-              className="star-img"
-            ></img>
+            <img src="/images/reviews/star.png" className="star-img"></img>
           </div>
         </div>
         <ReviewSection />

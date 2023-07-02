@@ -5,7 +5,7 @@ const NavBar = () => {
     <nav className="navbar">
       <div className="container nav-container flex">
         <div className="logo">
-          <img src="../public/images/Hero/logo3.png" className="nav-img"></img>
+          <img src="/images/Hero/logo3.png" className="nav-img"></img>
           <h3 className="title">TalentX</h3>
         </div>
         <ul className="nav-items flex">

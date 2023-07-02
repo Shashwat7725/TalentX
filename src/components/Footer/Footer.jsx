@@ -6,10 +6,7 @@ const Footer = () => {
       <div className="container footer-container flex">
         <div className="footer-logo-info">
           <div className="logo">
-            <img
-              src="../public/images/Hero/logo3.png"
-              className="nav-img"
-            ></img>
+            <img src="/images/Hero/logo3.png" className="nav-img"></img>
             <h3 className="logo-title">TalentX</h3>
           </div>
           <p>
